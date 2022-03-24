@@ -3,7 +3,7 @@
 
 * 🌱 I’m currently learning in **Synopsys Armenia Educational Department and 42 Yerevan**
 
-* 👀 I’m interested in **C, C++, OOP, Git, Algorithms, Data Structures, Game development**
+* 👀 I’m interested in **C, C++, OOP, Git, Algorithms, Data Structures and Game development**
 
 * 👨‍💻 All of my projects are available at [https://github.com/dpetrosy](https://github.com/dpetrosy)
 

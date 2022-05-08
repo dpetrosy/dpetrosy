@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Davit</h1>
 <h3 align="center">Junior Software Engineer from Armenia</h3>
 
-* 🌱 I’m currently learning in **Synopsys Armenia Educational Department and 42 Yerevan**
+* 🌱 I’m currently learning in **Synopsys Armenia Educational Department and 42 Yerevan.**
 
-* 👀 I’m interested in **C, C++, OOP, Git, Algorithms, Data Structures and Game development**
+* 👀 I’m interested in **C, C++, OOP, Git, Algorithms, Data Structures and Game development.**
 
-* 👨‍💻 All of my projects are available at [my repositories page](https://github.com/dpetrosy?tab=repositories)
+* 👨‍💻 All of my projects are available at [my repositories page.](https://github.com/dpetrosy?tab=repositories)
 
 * 📫 How to reach me: **david20011409@gmail.com**
 

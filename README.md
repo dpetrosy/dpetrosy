@@ -8,7 +8,7 @@
 * 👨‍💻 All of my projects are available at [my repositories page.](https://github.com/dpetrosy?tab=repositories)
 
 * 📫 How to reach me: <a href="https://www.linkedin.com/in/dpetrosy/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="200" height="20"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="170" height="30"/>
     </a>
 
 <h3 align="left">Languages and Tools:</h3>

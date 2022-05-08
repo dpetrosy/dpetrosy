@@ -5,7 +5,7 @@
 
 * 👀 I’m interested in **C, C++, OOP, Git, Algorithms, Data Structures and Game development**
 
-* 👨‍💻 All of my projects are available at [https://github.com/dpetrosy?tab=repositories](https://github.com/dpetrosy?tab=repositories)
+* 👨‍💻 All of my projects are available at [my repositories page](https://github.com/dpetrosy?tab=repositories)
 
 * 📫 How to reach me: **david20011409@gmail.com**
 

@@ -8,7 +8,7 @@
 * 👨‍💻 All of my projects are available at [my repositories page.](https://github.com/dpetrosy?tab=repositories)
 
 * 📫 How to reach me: <a href="https://www.linkedin.com/in/grigori-verdyan/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="40" height="40"/>
   </a>
 
 <h3 align="left">Languages and Tools:</h3>

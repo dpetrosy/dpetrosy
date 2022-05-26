@@ -16,8 +16,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vsCode" alt="vsCode" width="40" height="40"/>&nbsp;
 </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dpetrosy&show_icons=true&locale=en&layout=compact" alt="dpetrosy" width="380" height="180" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dpetrosy&show_icons=true&locale=en&layout=compact" alt="dpetrosy" width="370" height="170" /></p>
 
-<img align="right" alt="GIF" src="https://github.com/dpetrosy/dpetrosy/blob/master/code.gif?raw=true" width="425" height="320" />
+<img align="right" alt="GIF" src="https://github.com/dpetrosy/dpetrosy/blob/master/code.gif?raw=true" width="415" height="310" />
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dpetrosy&show_icons=true&locale=en" alt="dpetrosy" width="380" height="150" /></p>

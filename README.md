@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Davit</h1>
-<h3 align="center">Junior Software Engineer from Armenia</h3>
+<h3 align="center">C/C++ Software Engineer from Armenia</h3>
 
 * 🌱 I’m currently learning in **Synopsys Armenia Educational Department and 42 Yerevan.**
 

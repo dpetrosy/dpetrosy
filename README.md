@@ -23,7 +23,7 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dpetrosy&show_icons=true&locale=en" alt="dpetrosy" width="380" height="150" /></p>
 
 <p align="center">
-  <a href="https://github.com/Aramxxx8691">
+  <a href="https://github.com/dpetrosy">
     <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
   </a>
 </p>

@@ -36,22 +36,6 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
 
-
-
-
-
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dpetrosy&label=Profile%20views&color=0e75b6&style=flat" alt="dpetrosy" /> </p>
-
-
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dpetrosy&" alt="dpetrosy" /></p>
-
-
 ###
 
 <div align="center">
@@ -65,6 +49,8 @@
 <img align="right" alt="GIF" src="https://github.com/dpetrosy/dpetrosy/blob/master/code.gif?raw=true" width="415" height="320" />
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dpetrosy&show_icons=true&locale=en" alt="dpetrosy" width="380" height="150" /></p>
+
+###
 
 <img src="https://raw.githubusercontent.com/dpetrosy/dpetrosy/output/snake.svg" alt="Snake animation" />
 

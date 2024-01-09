@@ -7,7 +7,7 @@
 * 📫 How to reach me:                  <a href="https://www.linkedin.com/in/dpetrosy/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="20"/> </a>
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+## 🛠️ Languages and Tools
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width=12" />

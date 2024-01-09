@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Davit</h1>
 <h3 align="center">C/C++ Software Engineer from Armenia</h3>
 
-👨‍🎓 I’m currently learning in **42 International Programming School in Yerevan.** \
-👨‍💻 All of my projects are available at [my repositories page.](https://github.com/dpetrosy?tab=repositories) \
-👀 I’m interested in: \
-* Software Engineering
-* Game Development
-* Cybersecurity
+* 👨‍🎓 I’m currently learning in **42 International Programming School in Yerevan.**
+* 👀 I’m interested in **Software engineering, Cybersecurity and Game development.**
+* 👨‍💻 All of my projects are available at [my repositories page.](https://github.com/dpetrosy?tab=repositories)
+* 📫 How to reach me:                  <a href="https://www.linkedin.com/in/dpetrosy/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="20"/> </a>
 
-<h3 align="left">🛠️Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="12" />

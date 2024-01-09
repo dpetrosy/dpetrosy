@@ -44,10 +44,6 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dpetrosy&show_icons=true&locale=en" alt="dpetrosy" width="380" height="150" /></p>
 
-<a align="center" href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=dpetrosy&label=Profile%20Views&color=3&icon=0&pretty=false" />
-</a>
-
 ###
 
 <p align="center">
@@ -55,5 +51,13 @@
     <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
   </a>
 </p>
+
+###
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dpetrosy) 
+
+<a align="center" href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=dpetrosy&label=Profile%20Views&color=3&icon=0&pretty=false" />
+</a>
 
 ###

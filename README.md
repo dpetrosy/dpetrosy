@@ -46,6 +46,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/dpetrosy/dpetrosy/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <a href="https://github.com/dpetrosy">
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  </a>
+</p>
 
 ###

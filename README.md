@@ -44,6 +44,10 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dpetrosy&show_icons=true&locale=en" alt="dpetrosy" width="380" height="150" /></p>
 
+<a align="center" href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=dpetrosy&label=Profile%20Views&color=3&icon=0&pretty=false" />
+</a>
+
 ###
 
 <p align="center">

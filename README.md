@@ -54,30 +54,10 @@
 
 ###
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dpetrosy) 
-
-<a align="center" href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=dpetrosy&label=Profile%20Views&color=3&icon=0&pretty=false" />
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
 <div align="center">
 	<a href="https://www.linkedin.com/in/dpetrosy/">
 		<img src="https://img.shields.io/badge/-Visit my LinkedIn-2975FE?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF" alt="LinkedIn">
 	</a>
-</div>
-
-<div align=center>
 	</a>
 	  <img src="https://komarev.com/ghpvc/?username=dpetrosy&style=for-the-badge&color=red"></a>
 	</a>

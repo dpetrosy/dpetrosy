@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Davit</h1>
 <h3 align="center">C/C++ Software Engineer from Armenia</h3>
 
-👨‍🎓 I’m currently learning in **42 International Programming School in Yerevan.**
-👨‍💻 All of my projects are available at [my repositories page.](https://github.com/dpetrosy?tab=repositories)
-👀 I’m interested in:
+👨‍🎓 I’m currently learning in **42 International Programming School in Yerevan.** \
+👨‍💻 All of my projects are available at [my repositories page.](https://github.com/dpetrosy?tab=repositories) \
+👀 I’m interested in: \
 * Software Engineering
 * Game Development
 * Cybersecurity

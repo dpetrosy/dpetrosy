@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Davit</h1>
 <h3 align="center">C/C++ Software Engineer from Armenia</h3>
 
-* 👨‍🎓 I’m currently learning in **42 International Programming School in Yerevan.**
-
-* 👀 I’m interested in **Software engineering, Cybersecurity and Game development.**
-
-* 👨‍💻 All of my projects are available at [my repositories page.](https://github.com/dpetrosy?tab=repositories)
-
-* 📫 How to reach me:                  <a href="https://www.linkedin.com/in/dpetrosy/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="20"/> </a>
+👨‍🎓 I’m currently learning in **42 International Programming School in Yerevan.**
+👨‍💻 All of my projects are available at [my repositories page.](https://github.com/dpetrosy?tab=repositories)
+👀 I’m interested in:
+* Software Engineering
+* Game Development
+* Cybersecurity
 
 <h3 align="left">🛠️Languages and Tools:</h3>
 <div align="left">
@@ -38,6 +36,29 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
+
+
+
+
+
+
+<h1 align="center">Hi 👋, I'm dpetrosy</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dpetrosy&label=Profile%20views&color=0e75b6&style=flat" alt="dpetrosy" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dpetrosy" alt="dpetrosy" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dpetrosy&show_icons=true&locale=en&layout=compact" alt="dpetrosy" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dpetrosy&show_icons=true&locale=en" alt="dpetrosy" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dpetrosy&" alt="dpetrosy" /></p>
+
 
 ###
 

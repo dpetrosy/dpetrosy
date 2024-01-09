@@ -36,7 +36,7 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
 
-###
+## Some Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dpetrosy&show_icons=true&locale=en&layout=compact" alt="dpetrosy" width="380" height="180" /></p>
 

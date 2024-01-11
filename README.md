@@ -40,9 +40,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dpetrosy&show_icons=true&locale=en&layout=compact" alt="dpetrosy" width="380" height="180" /></p>
 
-<img align="right" alt="GIF" src="https://github.com/dpetrosy/dpetrosy/blob/master/code.gif?raw=true" width="415" height="320" />
-
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dpetrosy&show_icons=true&locale=en" alt="dpetrosy" width="380" height="150" /></p>
+
+<img align="right" alt="GIF" src="https://github.com/dpetrosy/dpetrosy/blob/master/code.gif?raw=true" width="415" height="320" />
 
 ###
 

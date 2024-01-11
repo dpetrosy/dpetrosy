@@ -42,7 +42,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/dpetrosy/dpetrosy/blob/master/code.gif?raw=true" width="415" height="320" />
 
-<p>&nbsp;<img  style="margine: 10px;" align="left" src="https://github-readme-stats.vercel.app/api?username=dpetrosy&show_icons=true&locale=en" alt="dpetrosy" width="380" height="150" /></p>
+<p>&nbsp;<img  style="margine: 100" align="left" src="https://github-readme-stats.vercel.app/api?username=dpetrosy&show_icons=true&locale=en" alt="dpetrosy" width="380" height="150" /></p>
 
 ###
 

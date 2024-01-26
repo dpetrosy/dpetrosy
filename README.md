@@ -39,8 +39,8 @@
 ## 📊 Github Stats
 
 <img align="right" alt="GIF" src="https://github.com/dpetrosy/dpetrosy/blob/master/code.gif?raw=true" width="450"/>
-<img src="https://github-readme-stats.vercel.app/api?username=dpetrosy&show_icons=true" width="350px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpetrosy&layout=compact" width="350px">
+<img src="https://github-readme-stats.vercel.app/api?username=dpetrosy&show_icons=true" width="350px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpetrosy&layout=compact" width="350px"/>
 
 ###
 

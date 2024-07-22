@@ -9,33 +9,33 @@
 
 ## 🛠️ Languages and Tools
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo"  />
   <img width=12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <img src="https://skillicons.dev/icons?i=bash" height="50" alt="bash logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=qt" height="40" alt="qt logo"  />
+  <img src="https://skillicons.dev/icons?i=qt" height="50" alt="qt logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="50" alt="gitlab logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
+  <img src="https://skillicons.dev/icons?i=unity" height="50" alt="unity logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vim" height="40" alt="vim logo"  />
+  <img src="https://skillicons.dev/icons?i=vim" height="50" alt="vim logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
+  <img src="https://skillicons.dev/icons?i=neovim" height="50" alt="neovim logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
 </div>
 
 ## 📊 Github Stats
